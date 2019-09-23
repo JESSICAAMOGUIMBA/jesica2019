@@ -1,0 +1,20 @@
+frontend....HTML,CSS,JS con JQUERY
+backend...ASP Net CORE(herramientas de microsoft)
+ sql server(herramienta propietaria)
+MVC..modelo vista controlador
+
+ramas lineas de comando
+creoar repositorios ramas
+comandos
+
+git init
+git fetch
+get pull origen rama
+get push origen master
+git checkout rama
+git add.
+get add archivo
+get commit -m "mensaje"
+
+https://www.hostinger.es/tutoriales/comandos-de-git
+
